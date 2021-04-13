@@ -11,6 +11,7 @@ On basic implementation, Jopets needs:
 [ ] First Tab - a place to feed your Jopet (and clothe it eventually)  
 [ ] Second Tab - a place to earn currency  
 [ ] Third Tab - a place to spend currency   
+###Detailed  
 [ ] First Tab (detailed) - Selectable Jopet with HP, personality attributes, and Hunger Status (that decays over time)  
 [ ] Second Tab - A simple task/game that can help currency. Perhaps practice many different elements of Flutter with animations and gesture recognizers to obtain currency.  
 [ ] Third Tab - a shopping cart that can be used to spend currency (in the original game, you can also haggle, but that's another feature)  
